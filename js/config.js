@@ -107,6 +107,7 @@ var l_musicPlaylist = [
         {youtube: "cjQQ9JYGgTM", name: "Atlas - Installation Music"},
         {youtube: "oBpvsSeBh54", name: "Atlas - Installation Music"},
         {youtube: "ZRineeKfZp0", name: "Atlas - Installation Music"},
+        {youtube: "keC-XrYC1Z8", name: "Atlas - Installation Music"},
 
 ];
 
