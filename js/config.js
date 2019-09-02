@@ -96,15 +96,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "jKZgXwqiEeQ", name: "Atlas  - Installation Music"},
-	{youtube: "WsrVxz4pjGs", name: "Atlas  - Installation Music"},
-        {youtube: "WsrVxz4pjGs", name: "Atlas  - Installation Music"},
-        {youtube: "WsrVxz4pjGs", name: "Atlas  - Installation Music"},
-        {youtube: "WsrVxz4pjGs", name: "Atlas  - Installation Music"},
-        {youtube: "WsrVxz4pjGs", name: "Atlas  - Installation Music"},
-        {youtube: "WsrVxz4pjGs", name: "Atlas  - Installation Music"},
-        {youtube: "gk-aCL6eyGc", name: "Atlas  - Installation Music"},
-        {youtube: "jKZgXwqiEeQ", name: "Atlas - Installation Music"},
+	{youtube: "hHWMXtvx3BM", name: "Atlas  - Installation Music"},
+	{youtube: "gdEuJ1hAVhQ", name: "Atlas  - Installation Music"},
+        {youtube: "nQZ-5Fxn-vE", name: "Atlas  - Installation Music"},
+        {youtube: "8a6z8MIMuU", name: "Atlas  - Installation Music"},
+        {youtube: "eN7dYDYfvVg", name: "Atlas  - Installation Music"},
+        {youtube: "Of0k-NFqC7E", name: "Atlas  - Installation Music"},
+        {youtube: "lhenz0AdLqo", name: "Atlas  - Installation Music"},
+        {youtube: "QxVGEM4VEK0", name: "Atlas  - Installation Music"},
+        {youtube: "cjQQ9JYGgTM", name: "Atlas - Installation Music"},
 
 ];
 
@@ -146,7 +146,7 @@ var l_messages = [
         "AFear RP is in effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
         "NLR (New life rule) is 3 minutes. Do not return to the place of death for that duration and you forget everything from your past life (including how you died and who killed you!",
-        "Cop baiting is not allowed. Cop baiting is intentionally breaking the law or annoying a police officer in an attempt to have them arrest/confront you!"
+        "Guaers baiting is not allowed. Cop baiting is intentionally breaking the law or annoying a police officer in an attempt to have them arrest/confront you!"
 
 ];
 /*Random message order?*/
