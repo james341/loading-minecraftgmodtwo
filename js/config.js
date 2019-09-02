@@ -105,6 +105,7 @@ var l_musicPlaylist = [
         {youtube: "lhenz0AdLqo", name: "Atlas  - Installation Music"},
         {youtube: "QxVGEM4VEK0", name: "Atlas  - Installation Music"},
         {youtube: "cjQQ9JYGgTM", name: "Atlas - Installation Music"},
+        {youtube: "oBpvsSeBh54", name: "Atlas - Installation Music"},
 
 ];
 
@@ -139,14 +140,14 @@ var l_messages = [
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "No posting posts that other members have posted!",
-        "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
+        "It is the full responsibility of the warning originator to ensure all intended targets are aware of the warning outside the vicinity of their base (designated by the raidzone) should they ask in chat!",
         "You must have one way to get in and one way to get out!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "Please dont spam the sound sweps that come with your job!",
         "AFear RP is in effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
         "If we close down you will not get your money back and if we open up again you will no longer have the Vip packages!",
         "NLR (New life rule) is 3 minutes. Do not return to the place of death for that duration and you forget everything from your past life (including how you died and who killed you!",
-        "Guaers baiting is not allowed. Cop baiting is intentionally breaking the law or annoying a police officer in an attempt to have them arrest/confront you!"
+        "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!"
 
 ];
 /*Random message order?*/
