@@ -112,6 +112,10 @@ var l_musicPlaylist = [
         {youtube: "oBpvsSeBh54", name: "Atlas - Installation Music"},
         {youtube: "ZRineeKfZp0", name: "Atlas - Installation Music"},
         {youtube: "keC-XrYC1Z8", name: "Atlas - Installation Music"},
+        {youtube: "blKsmOP6zro", name: "Atlas - Installation Music"},
+        {youtube: "kPtWVYzC2vU", name: "Atlas - Installation Music"},
+        {youtube: "la0-5QFLr14", name: "Atlas - Installation Music"},
+        {youtube: "JTUCUqlwnpg", name: "Atlas - Installation Music"},
 
 ];
 
@@ -147,7 +151,7 @@ var l_messages = [
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "No posting posts that other members have posted!",
         "It is the full responsibility of the warning originator to ensure all intended targets are aware of the warning outside the vicinity of their base (designated by the raidzone) should they ask in chat!",
-        "You must have one way to get in and one way to get out!",
+        "Please take the server Seriously!",
         "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
         "Please dont spam the sound sweps that come with your job!",
         "AFear RP is in effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
